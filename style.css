@@ -10,5 +10,10 @@ canvas {
     max-height: 100%;
     position: relative;
     margin: 0 auto;
-    background: rgb(111, 204, 196);
+    background: #7ccd37;
 }
+
+#background, #player, #character-crouch, #character-jump, #character-run, #character-death, #bullets {
+    display: none;
+}
+
